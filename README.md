@@ -17,4 +17,4 @@ npm install
 
 ## Credit
 
-Created by [@dosyago-coder-0] (https://github.com/dosyago-coder-0)
+Created by [@dosyago-coder-0] (https://github.com/dosyago-coder-0) (aka) [@crisdosyago](https://github.com/crisdosyago)
